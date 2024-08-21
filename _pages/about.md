@@ -13,34 +13,14 @@ I'm a first-year master’s student from [School of Electronic Information and E
 
 Undergraduate courses
 ======
-1. Modern Control Theory
-1. Computer Vision
-1. Process Control System
-1. Motion Control System
-1. Nonlinear System
-1. Computer Control Technology
-2.Android App Development Practicum
-2.Power Electronics Technology
-2.Robotics
-2.Introduction to Pattern Recognition
-2.Fundamentals of Digital Image Processing
-2.Digital Signal Processing
-2.Principles of Automatic Control Systems
-2.Embedded Systems and Interface Technology
-2.Fundamentals of Artificial Intelligence
-2.Data Structures
-2.Linear Programming and Nonlinear Programming
-2.Signals and Systems
-2.Programming Principles and Techniques
-2.Probability Theory and Mathematical Statistics
-2.Discrete Mathematics
-2.Analog Electronics Technology
-2.Digital Electronics Technology
-2.Linear Algebra
-2.Calculus
-2.Matrix Theory
-2.Optimization Methods
+1. Modern Control Theory、Principles of Automatic Control Systems
+2. Robotics、Process Control System、Motion Control System、Nonlinear System、Computer Control Technology、Power Electronics Technology
+3. Calculus、Linear Algebra、Probability Theory and Mathematical Statistics、Discrete Mathematics、Matrix Theory、Optimization Methods
+4. Programming Principles and Techniques、Data Structures、Embedded Systems and Interface Technology
+5. Computer Vision、Android App Development Practicum、Introduction to Pattern Recognition、Fundamentals of Artificial Intelligence、Linear Programming and Nonlinear Programming 
+6.Fundamentals of Digital Image Processing、Digital Signal Processing、Signals and Systems、Analog Electronics Technology、Digital Electronics Technology
+
 
 Hello
 ======
-![](/images/profile picture.png)
+![Hello](/images/profile picture.png)
