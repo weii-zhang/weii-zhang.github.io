@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wei Zhang / Personal Homepage"
+title                    : "Zhang Wei / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile picture.png"
-  name             : "Wei Zhang"
+  name             : "Zhang Wei"
   pronouns         : # example: "she/her"  
   bio              : "Better Late Than Never"
   location         : "Earth"
